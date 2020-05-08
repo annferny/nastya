@@ -1,0 +1,30 @@
+body {
+    font-family: "Arial";
+    background-color: cornsilk;
+    padding: 40px;
+}
+main{
+    text-align: center;
+    margin-bottom: 100px;
+}
+h1 {
+    text-align: center;
+}
+ul{
+    color: blue;
+    text-decoration: underline;
+}
+aside{
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+footer{
+    font-size: small;
+    line-height: 5px;
+}
